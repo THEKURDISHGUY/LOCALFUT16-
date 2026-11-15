@@ -1,0 +1,5 @@
+George Weah (89 ST)  [no player id in icons16.tsv]
+Fabio Cannavaro (89 CB)  [no player id in icons16.tsv]
+Landon Donovan (86 LM)  [no player id in icons16.tsv]
+Alexi Lalas (86 CB)  [no player id in icons16.tsv]
+Carlos Valderrama (86 CAM)  [no player id in icons16.tsv]

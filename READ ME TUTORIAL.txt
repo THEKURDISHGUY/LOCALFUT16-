@@ -1,0 +1,9 @@
+### TO RUN THE LAUNCHER YOU MUST CLICK make_release.bat 
+
+
+### IT WILL CREATE A FOLDER NAMED Release Then Click Fut_Reborn_Launcher.exe
+
+Then 
+
+
+enjoy localfut16

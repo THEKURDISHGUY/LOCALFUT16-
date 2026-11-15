@@ -1,0 +1,1082 @@
+US_GAMEPLAY_ENDOFGAME_HALF_WAIT_CHAMP_MINOR
+CONTINUOUS_GAMEPLAY_ENDOFGAME_HALF_WAIT
+CONTINUOUS_GAMEPLAY_ENDOFGAME_HALF_WAIT_CHAMP
+CONTINUOUS_GAMEPLAY_ENDOFGAME_HALF_WAIT_DEFAULT
+NISScriptSelectorImpl
+.eB
+zDp
+Gameplay::CrowdEnableCmd
+Gameplay::SetCrowdAnimationCmd
+Gameplay::DisableCrowdDressings
+Gameplay::BalloonsDressing
+Gameplay::ChoreoDressing
+Gameplay::DoubleHoldersDressing
+Gameplay::FenceFlagsDressing
+Gameplay::HugeFlagDressing
+Gameplay::ScarvesDressing
+Gameplay::LongNarrowFlagsDressing
+Gameplay::WavingFlagsDressing
+5!D
+Presentation::Crowd Country Prop Map
+Presentation::Crowd Tier Prop Map
+CROWD/DISABLE_BALLOONS
+CROWD/DISABLE_CHOREOGRAPHIES
+CROWD/DISABLE_DOUBLE_HOLDERS
+CROWD/DISABLE_FENCE_FLAGS
+CROWD/DISABLE_HUGE_FLAGS
+CROWD/DISABLE_SCARVES
+CROWD/DISABLE_LONG_NARROW_FLAGS
+CROWD/DISABLE_WAVING_FLAGS
+DISABLE_CROWD
+.eB
+=fff?
+@ff
+=O&
+Yr)
+#|4
+{vB
+ox|
+u*j
+QPI
+]P`
++"]
+H;!}#@i
+FoCLcx
+pvSlotPool::Slots
+pvPingPongManager::SlotPool
+pvProfilerDb::mCustomThreadFutex
+pvProfilerDb::pvPingPongBuffer
+pvProfilerDb::mThreadIndex
+pvProfilerDb::mJobStackList
+pvProfilerDb::mFutex
+pvProfilerDb::mSamplePPFutex
+pvProfilerDb::mSemaphore
+pvProfilerDb::mUpdateStreamFutex
+pvProfilerDb::NumSymbols
+eastl_allocator
+pvProfilerDb::WriterList
+mFileSymbols
+mThreadInfo
+mProcessorInfo
+mAsyncWriterThread
+mStringTable
+pvProfilerDb::mSymbolFutex
+mSymbolHt
+Default CPU
+pvProfile Writer
+Saving raw profile data to %s.
+ProfileWriterImpl::mPingPongManager
+ProfileWriterImpl::CompressBuffer
+ProfileWriterImpl::LzmaCompress
+r+b
+ProfView::ProfileWriterImpl
+pvStringTable
+pvHashtable::Values
+pvHashtable::Keys
+@33
+>33
+>33
+>33
+:next
+natural
+step
+early
+step
+phase
+error
+lean
+error
+rand
+@tar
+move
+- sh
+tar
+speed
+@at
+tar
+move
+tar
+shldr
+step
+group
+step
+len
+target
+phase
+match
+pref
+dir
+pri
+?33
+.eB
+L=5
+p}?
+>q=
+Ga>
+(Go
+<)\
+B::MN
+::MB
+::MR
+z?::CM
+::CD
+::ML
+::BT
+::TT
+::IT
+@33
+@@ff
+@333?
+zDR
+@333?
+RunOnly
+RunAndStop
+LOCO_TURN_POSITIVE
+LOCO_TURN_NEGATIVE
+LOCO_STRAIGHT
+LOCO_TURN_EITHER
+INTERRUPT_WITH_WAIT
+INTERRUPT_WITHOUT_WAIT
+INTERRUPT_WITHOUT_WAIT_WHEN_TARGET_BECOMES_TRUSTED
+LOCO_NO_MIRROR
+LOCO_MIRROR
+only no-mirror
+only mirror
+both mirror and no-mirror
+Middle
+move to target
+move to target, no run style transitions
+run-run-run
+step loco, move to target
+step loco, run-run-run
+Fwd
+Locomotion/InvalidTrack
+Locomotion/IdleTrack
+Locomotion/RunTrack
+Locomotion/WarpTrack
+Locomotion/StepTrack
+maintain momentum
+stop and go
+Walk
+any turn
+Slow Jog
+Jog
+left foot
+Fast Jog
+right foot
+both feet
+shield
+defend
+5050_push
+5050_pushed
+Medium
+jostle
+Far
+hold_held
+off_balance
+protect_ball
+step not found
+above tol
+Straight
+specific step type
+in fb region
+Run
+Warp
+StopOn
+Through
+StopNow
+RunRunRun
+StepLoco
+Idling on
+Stopping on
+Running toward
+Turning toward
+Clipped-turn stop
+Stop via run
+Decel to snap
+App car turn
+#Far toward
+#Far away
+#Fast toward near
+#Fast toward stopable
+#Fast away
+#Slow toward near
+#Slow toward stopable
+#Slow away
+#Snap
+RunTwd
+TurnTwd
+Decel
+CarTurn
+#IdleTwd
+#Far
+#FastTwd
+#FastAway
+#SlowTwd
+#SlowAway
+Idle
+RunStop
+RunRot
+RunArvd
+#BadSdr
+#NotStp
+DecelTurn
+DoNothing
+AccelTwd
+ShufNotTwd
+ReinitWarp
+IdleToward
+ShufAccel
+RunTrans
+AccelUnblc
+RRR_Reserved1
+RRR_Reserved2
+RRR_Reserved3
+accel 
+decel 
+TracksError.txt
+constant speed
+accel
+decel
+rotate on spot
+fwd
+crouch
+cycle
+swivel
+decelerate
+accelerate
+car-turn
+drastic-turn
+decel-start
+accel-start
+car-decel
+car-accel
+car-exit
+decel-stop
+lane-change
+uber-idle
+curve-drastic-turn
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+ A&D
+KvD
+kXD
+]0E
+zWD
+@`0E
+ dhD
+MoveToTargetNullJob
+move_to_target
+PathEstimation
+StepAssert.txt
+Step Type
+dist per tick
+Cur Speed
+Tar Speed
+Tar Move - Cur Move
+Tar Move - Cur Shoulder
+Tar Move - Tar Shoulder
+Cur Move - Tar Shoulder
+Cur Move - Cur Shoulder
+Tar Shoulder - Cur Shoulder
+Tar Dist From Stop Position
+DEPRECATED Phase (unused)
+DEPRECATED Lean Forward (unused)
+DEPRECATED Lean Side (unused)
+StepQuery
+Cur Speed Bucket
+Tar Speed Bucket
+Lean Side Bucket
+Tar Move - Cur Move Bucket
+Tar Move - Cur Shoulder Bucket
+Tar Move - Tar Shoulder Bucket
+Cur Move - Tar Shoulder Bucket
+Cur Move - Cur Shoulder Bucket
+Tar Shoulder - Cur Shoulder Bucket
+Tar Distance From Stop Position Bucket
+Clip Type
+Step Location In Clip
+Run Style
+Run Speed
+Target Speed
+Start Speed
+Clip End Speed
+Start Side Lean Side
+Target Distance From Stop Position
+Side Lean Dir
+Step Placer Bucket
+Step Placer
+LOCO_ENABLE_PRECISION
+WarpAsset::PoseDataBlock
+D=PwV=
+Ga=
+.>R
+f_?
+'@33
+p:@
+L>6
+N8@
+N8@
+N8@
+N8@
+S{@
+S{@
+S{@
+S{@
+pAUU
+AUU
+AUU
+AUU
+en-US
+EA::RemoteView::RemoteViewImpl::CreateInstance
+.eB
+f6<
+<f6f
+`vl
+6f[f
+<<0~
+~<<
+`<3
+ff0`
+0f7|ff6`0
+6`|
+6|f
+f0f
+f0f
+x<0<8
+|<x~~<f<
+f`cc<
+<ffl``ff
+f`ccf
+ffff``ff
+l`wsf
+ff`f```f
+l`k{f
+f|`f||`~
+x`kof
+~f`f``nf
+l`kgf
+ffff``ff
+fl`ccf
+fffl``ff
+ff`ccf
+f|<x~`>f<<f~cc<
+|<|<~ffcff~<`<f
+ffff
+ffcff
+fff`
+ffc4f
+fff0
+ffk
+|f|
+ffk
+`fl
+ffk,
+`ff
+ff6f
+`fff
+f<6f
+`<f<
+<|<><0>|x<f
+~|<
+ffff0ff
+kff
+f`ff~ff
+kff
+>f`f~0ff
+kff
+ff`f`0ff
+kff
+ffff`0ff
+kff
+>|<><0>f~
+f~cf<
+0q~
+~|>f>~ffcff~
+~ffn`0ffkff
+~ffp`0ffk<f
+~ff`<0ffk
+~ff`
+0ffk<f00
+~ff`
+0f<6ff`
+~|>`|
+6f<~
+Largest
+_SBA
+EmptyPages
+%s - Free %s, Used %s, HW %s, %s %s
+Camera PIMPL
+DebugFontTex Alloc
+debugtext::sFont8x16BitmapData
+FILESYS_TEXT_VIEW
+HISTOGRAM
+histogram
+Histogram::mImpl
+ViewMan
+RNA
+RAssets
+EacGfx
+FIFARNA/SERIALIZE
+data/fifarna/debug/rnaSerial1.bin
+FIFASTEREO/FELAYER_BG_DEPTH
+FIFASTEREO/FELAYER_FG_DEPTH
+RENDER_YIELD_EOF
+RENDER_YIELD_EOF_DOJOBS
+RENDER_YIELD_BUFFER
+notify on resize item
+data/fifarna/lua/assets.lua
+data/fifarna/lua/settings.lua
+data/fifarna/lua/initialize.lua
+data/fifarna/lua/materialremap.lua
+data/fifarna/lua/postfx.lua
+data/fifarna/lua/assets/accessory.lua
+data/fifarna/lua/assets/ball.lua
+data/fifarna/lua/assets/batchsle.lua
+data/fifarna/lua/assets/crowd.lua
+data/fifarna/lua/assets/gameplayprop.lua
+data/fifarna/lua/assets/goalnet.lua
+data/fifarna/lua/assets/grass.lua
+data/fifarna/lua/assets/indicator.lua
+data/fifarna/lua/assets/particleseffect.lua
+data/fifarna/lua/assets/player.lua
+data/fifarna/lua/assets/poleflag.lua
+data/fifarna/lua/assets/refereeflag.lua
+data/fifarna/lua/assets/sle.lua
+data/fifarna/lua/assets/smallobjects.lua
+data/fifarna/lua/assets/stadium.lua
+data/fifarna/lua/assets/trophy.lua
+data/fifarna/lua/assets/wipe3d.lua
+data/fifarna/lua/assets/digitalboard.lua
+RenderFramework::StartDevice
+SCREEN_WIDTH
+SCREEN_HEIGHT
+SCREEN_ASPECTRATIO
+LETTERBOXMODE
+MULTISAMPLE
+SSAA
+CLEARCOLOR
+ENABLE_VSYNC_WORKAROUND
+RENDER_BREAK_ON_ERRORS
+:yaSHe
+DISPLAY_ASPECT_RATIO
+Lua::Initialize
+RenderFramework::Start
+data/fifarna/fonts/fixed8x16.dat
+RenderFramework::InitializeLua
+InitializeLua
+InitializeCloth
+data/sceneassets/rig/skeleton_player.rx3
+data/sceneassets/rig/skeleton_ant.rx3
+PlayerSkeletonANT
+RenderFramework::EndFrame
+RenderContext
+TLFont
+ViewMan::ViewMan
+ReplayReaderJob
+ReplayWriterJob
+ReplayProcessJob
+objects
+JobDispatcherReader
+JobDispatcherWriter
+JobDispatcherProcess
+JobDispatcherProcessLocal
+Replay::RWObject
+REPLAY_SaveAsync_gMutexLock
+REPLAY_SaveAsync_Start
+REPLAY_SaveAsync_iterate
+LoadObject UnpackBuffer
+ClipStore
+System Object
+Replay::SkeletonVec
+Replay::Skeleton
+Replay::MatrixCompress
+.eB
+SQTCache::Bones[]
+MatrixCompress::mParentID
+MatrixCompress::mBoneDataMask
+MatrixCompress::mParentIDRender
+MatrixCompress::mBoneRemapTableRender
+MatrixCompress::mBoneRemapTableAI
+MatrixCompress::boneNames
+RigamateAssetData::CustomChannelDofMap
+RigamateAssetData::BreathingChannelDofMap
+MatrixCompress::SQTCache
+MatrixCompress::Rigamate
+MatrixCompress::BindPoseBuffer
+SQTCacheUpdate
+SQTCacheModifyT
+SQTCacheDestroy
+U)D
+U)D
+U)D
+RevealMalloc
+Welcome to the Reveal Tweaker System
+.eB
+RIGAMATE
+.eB
+.eB
+.eB
+.eB
+4Quaternion
+Reader
+StartPosition
+Reference
+TwistAmount
+Power
+ParentIndex
+Offset
+Acceleration
+Normalized
+StringTable
+.eB
+bool1
+bool2
+bool3
+bool4
+int1
+int2
+int3
+int4
+uint1
+uint2
+uint3
+uint4
+float1
+float2
+float3
+float4
+bool1x1
+bool1x2
+bool1x3
+bool1x4
+bool2x1
+bool2x2
+bool2x3
+bool2x4
+bool3x1
+bool3x2
+bool3x3
+bool3x4
+bool4x1
+bool4x2
+bool4x3
+bool4x4
+int1x1
+int1x2
+int1x3
+int1x4
+int2x1
+int2x2
+int2x3
+int2x4
+int3x1
+int3x2
+int3x3
+int3x4
+int4x1
+int4x2
+int4x3
+int4x4
+uint1x1
+uint1x2
+uint1x3
+uint1x4
+uint2x1
+uint2x2
+uint2x3
+uint2x4
+uint3x1
+uint3x2
+uint3x3
+uint3x4
+uint4x1
+uint4x2
+uint4x3
+uint4x4
+float1x1
+float1x2
+float1x3
+float1x4
+float2x1
+float2x2
+float2x3
+float2x4
+float3x1
+float3x2
+float3x3
+float3x4
+float4x1
+float4x2
+float4x3
+float4x4
+R8_UINT
+COLOR
+TANGENT
+BINORMAL
+PSIZE
+Texture
+Matrix
+=O&
+Yr)
+#|4
+{vB
+ox|
+u*j
+QPI
+]P`
++"]
+H;!}#@i
+FoCLcx
+.eB
+RNA:SA:Core
+WORLD
+WORLDIT
+VIEWIT
+VIEWINV
+VIEWPROJECTION
+VIEWPROJINV
+PROJECTION
+PROJECTIONINV
+WORLDVIEW
+WORLDVIEWPROJECTION
+EYEPT
+EYEDIR
+VIEWPORT
+VERTEX
+PIXEL
+GEOMETRY
+HULL
+DOMAIN
+COMPUTE
+RNA:SRP:NV
+RNA:SRP:NB
+RNA:SRP:NR
+RNA:SRP:Vars
+RNA:SRP:Bufs
+RNA:SRP:Ress
+RNA:SRP:Inps
+RNA:SRP:Outs
+RNA:BufferShadow:Clone
+RNA:BufVar:Buf:Clone
+RNA:BufferVar:Data
+@#_E
+@#_E
+RNAFX:Effect:Scope
+RNAFX:Effect:ScopeBufVar
+RNAFX:Effect:Observers
+RNAFX:Pass
+RNAFX:Tech
+managed
+deferred_sync
+VIEWPROJ
+RNAFX:Type
+RNAFX:Var
+RNAFX:Anno
+RNAFX:Defaults
+register
+$Params
+RNAFX:ScopeVec
+RNAFX:Tech:Anno
+InheritState
+RNAFX:Pass:$Params
+RNAFX:Tech:Pass
+RNAFX:Type:Members
+RNAFX:Var:Anno
+RNAFX:Var:Member
+@#_E
+RNA:Cont:IfaceObj
+RNA:Cont:NamedObj
+RNA:Cont:Mem
+RNA:Container:Clone
+RNA:Cont:ObjVec
+RNA:Render:ContObjFactReg:Fact
+EffectFactory
+MeshFactory
+RNA:Factory:Container
+RNA:Factory:Mat
+MATERIAL
+RNA:Factory:Mesh
+RNA:Factory:Model
+RNA:Factory:Screenshot
+RNA:Factory:TiledScreenshot
+RNA:Factory:SkinBuffer
+RNA:Factory:Skeleton
+RNA:Factory::Effect
+RNA:Factory:RSFCont
+RNA:Container:Effect:ShaderPtrs
+RNA:Container:Effect:Archive
+RNA:ContFxFact:Mem
+RNA:Factory:Texture
+RNA:Factory:Shape
+RNA:ContFxFact:Effect
+RNA:Container:Mesh:Archive
+RNA:ContMeshFact:Mem
+RNA:ContMeshFact:Mesh
+MeshVB
+MeshIB
+RNA:Material:Var
+RNA:Material:Bufs
+RNA:Material:Obs
+RNA:Material:Scope
+RNA:Material:Buffer
+RNA:Material:BufShadow
+RNA:Material:BufMemVar
+RNA:Material:StructVar
+RNA:Material:Clone
+RNA:Mesh:VBs
+RNA:Mesh:Strides
+RNA:Mesh:Offsets
+RNA:Mesh:InputElemDesc
+RNA:Mesh:IndexRangeData
+RNA:Mesh:InvalidVertexStream
+RNA:Mesh:Clone
+RNA:Model:Meshes
+RNA:Model:Materials
+RNA:Model:Layouts
+RNA:Model:BVs
+RNA:Model:Clone
+RNA:ModelBV:AABBs
+RNA:ModelBV:Spheres
+RNA:Render:Screenshot:ResolveTex
+RNA:Render:Screenshot:StageTex
+RNA:Render:TiledScreenshot:Texture
+RNA:MatrixSkinBuffer
+RNA:MatrixPackedSkinBuffer
+RNA:SqtSkinBuffer
+RNA:Skeleton:BoneNames
+RNA:Skeleton:SkinBuffer
+RNA:GenAllocator:Core
+RNA:GenAllocator:GenAllocator
+RNA:SA
+{^E
+fq{
+iDXBC"
+<;d/
+RDEFP
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGN,
+POSITION
+OSGN,
+SV_POSITION
+SHDR<
+STATt
+.eB
+DXBC7H
+RDEF
+ff_camera
+ff_wvp
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGN,
+POSITION
+OSGN,
+SV_POSITION
+SHDR
+STATt
+DXBC
+RDEF
+ff_camera
+ff_wvp
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNH
+POSITION
+COLOR
+OSGNL
+SV_POSITION
+COLOR
+SHDR
+STATt
+DXBC}P
+RDEF
+ff_camera
+ff_wvp
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNL
+POSITION
+TEXCOORD
+OSGNP
+SV_POSITION
+TEXCOORD
+SHDR
+STATt
+DXBC
+I%l
+RDEF
+ff_camera
+ff_wvp
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNh
+POSITION
+COLOR
+TEXCOORD
+OSGNl
+SV_POSITION
+COLOR
+TEXCOORD
+SHDR0
+STATt
+DXBCpg1
+RDEF
+ff_material
+ff_rgba
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGN,
+SV_POSITION
+OSGN,
+SV_TARGET
+SHDR@
+STATt
+DXBC
+i6D
+RDEF
+ff_material
+ff_rgba
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNL
+SV_POSITION
+COLOR
+OSGN,
+SV_TARGET
+SHDRT
+STATt
+DXBCv
+RDEF
+ff_samp0
+ff_tex0
+ff_material
+ff_rgba
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC
+=$s6
+RDEF
+ff_samp0
+ff_tex0
+ff_material
+ff_rgba
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNl
+SV_POSITION
+COLOR
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC
+RDEFP
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGN,
+SV_VertexID
+OSGNP
+SV_POSITION
+TEXCOORD
+SHDR,
+STATt
+DXBC
+RDEF
+SourceDepthTex
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC+
+n?a}
+RDEF
+SourceDepthTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC
+stW!:-4
+RDEF
+SourceDepthTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC
+RDEF
+SourceDepthTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_TARGET
+SHDR
+STATt
+DXBC
+RDEF
+SourceDepthTex
+SourceStencilTex
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGND
+SV_TARGET
+SHDR|
+STATt
+DXBC/
+RDEF
+SourceDepthTexMSAA
+SourceStencilTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGND
+SV_TARGET
+SHDR`
+STATt
+DXBC'=
+RDEF
+SourceDepthTexMSAA
+SourceStencilTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGND
+SV_TARGET
+SHDR`
+STATt
+DXBC
+RDEF
+SourceDepthTexMSAA
+SourceStencilTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGND
+SV_TARGET
+SHDR
+STATt
+DXBCO
+RDEF
+SourceDepthTex
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_DEPTH
+SHDR
+STATt
+DXBC
+y:"C
+RDEF
+SourceDepthTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_DEPTH
+SHDR
+STATt
+DXBC
+RDEF
+SourceDepthTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGN,
+SV_DEPTH
+SHDR
+STATt
+DXBC
+RDEF
+SourceDepthTex
+SourceStencilTex
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGNL
+SV_TARGET
+SV_DEPTH
+SHDRT
+STATt
+DXBC{
+X'y
+RDEF
+SourceDepthTexMSAA
+SourceStencilTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGNL
+SV_TARGET
+SV_DEPTH
+SHDR8
+STATt
+DXBCv
+rRz
+RDEF
+SourceDepthTexMSAA
+SourceStencilTexMSAA
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGNP
+SV_POSITION
+TEXCOORD
+OSGNL
+SV_TARGET
+SV_DEPTH
+SHDR8
+STATt
+DXBC
+RDEF
+RD11<
+FontBits
+CharMap
+ColorTargetOut
+Microsoft (R) HLSL Shader Compiler 9.30.9200.20789
+ISGN
+OSGN
+SHEX,
+STAT
+RNA:CSP:Reflect
+ dhD
+ dhD
+ dhD
+ dhD

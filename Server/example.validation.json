@@ -1,0 +1,18 @@
+{
+  "input": "C:\\Users\\Aros\\Documents\\Codex\\2026-10-19\\referenced-chatgpt-conversation-this-is-an\\work\\LocalFUT16\\TestData\\players16.example.csv",
+  "expectedSchema": [
+    "id",
+    "name",
+    "rating",
+    "position",
+    "nation",
+    "league",
+    "club",
+    "rare"
+  ],
+  "dataRows": 1,
+  "compatible": true,
+  "missingFields": [],
+  "nonNumericIdFields": [],
+  "reason": "Compatible with the local server\u0027s numeric-ID player schema."
+}

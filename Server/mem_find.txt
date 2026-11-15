@@ -1,0 +1,50 @@
+﻿fixtures [ascii]  @0x647E7426  not_in_live_fixtures
+fixtures [ascii]  @0x7FE735BC  fixtures
+fixtures [ascii]  @0x7FE861F0  fixtures
+seasonId [ascii]  @0x81E55F30  LoadSeasonDetails_Async: seasonId = 
+seasonId [ascii]  @0x81E5C998   seasonId = 
+seasonId [ascii]  @0x81E77D10  seasonId
+seasonId [ascii]  @0x81E77D68  seasonId
+seasonId [ascii]  @0x81E780B8  seasonId
+seasonId [ascii]  @0x81E780E8  seasonId
+seasonId [ascii]  @0x81E780F8  seasonId
+seasonId [ascii]  @0x81E78108  seasonId
+seasonId [ascii]  @0x81E78118  seasonId
+fixtures [ascii]  @0x87CCB15A    <table name="fixtures" shortname="Vmkr" maxupdate="-1" maxinsert="1200" maxdelete="1200" savegroups="squads,fixtures">
+fixtures [ascii]  @0x87CCB15A    <table name="fixtures" shortname="Vmkr" maxupdate="-1" maxinsert="1200" maxdelete="1200" savegroups="squads,fixtures">
+fixtures [ascii]  @0x1421087E8  fixtures
+seasonId [ascii]  @0x1421B2798  seasonId
+opponentTeamId [ascii]  @0x1421C8708  opponentTeamId
+fixtures [ascii]  @0x1421C6918  ApplyFixturesData::fixturesBuffer
+fixtures [ascii]  @0x142241C28  fifa/fifalive/gen4title/fixtures
+fixtures [ascii]  @0x142241D50  livefixtures
+fixtures [ascii]  @0x142241E40  hotwfixtures
+fixtures [ascii]  @0x143059520  Select fixtures via the calendar or main Central Hub
+fixtures [ascii]  @0x14306D018  fce_fixtures
+divisionId [ascii]  @0x7FF883D5EC38  ?divisionId=%d&seasonId=%d
+divisionId [ascii]  @0x7FF883D657C0  divisionId
+gamesDraw [ascii]  @0x7FF883D65C60  gamesDraw
+draftState [ascii]  @0x7FF883D65820  draftState
+seasonId [ascii]  @0x7FF883D5EC38  ?divisionId=%d&seasonId=%d
+seasonId [ascii]  @0x7FF883D628F0  {"seasonId":%d,"round":%d,"creationTime":%lld,"primaryPersonaId":%lld,"opponentPersonaId":%lld,"dataVersion":%d,"userData":"
+RS4:Fut [ascii]  @0x7FF883D5B1D0  RS4:FutCreateMatchServerResponse
+RS4:Fut [ascii]  @0x7FF883D5B2C0  RS4:FutMatchReadyServerResponse
+RS4:Fut [ascii]  @0x7FF883D5B3E0  RS4:FutDestroyMatchServerResponse
+RS4:Fut [ascii]  @0x7FF883D5B720  RS4:FutUserCreditsServerResponse
+RS4:Fut [ascii]  @0x7FF883D5B800  RS4:FutStoreGetPackTypesServerResponse
+RS4:Fut [ascii]  @0x7FF883D5B8E0  RS4:FutUpdateUserActionServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D250  RS4:FutPurchaseItemsServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D360  RS4:FutResetMatchServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D398  RS4:FutDiscardCardServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D500  RS4:FutDiscardCardByResServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D5D0  RS4:FutMoveCardServerResponse
+RS4:Fut [ascii]  @0x7FF883D5D6B0  RS4:FutMoveCardByResServerResponse
+opponentTeamId [ascii]  @0x7FF883D66550  opponentTeamId
+---- COUNTS
+fixtures [ascii] = 13
+seasonId [ascii] = 13
+opponentTeamId [ascii] = 2
+divisionId [ascii] = 2
+gamesDraw [ascii] = 1
+draftState [ascii] = 1
+RS4:Fut [ascii] = 104

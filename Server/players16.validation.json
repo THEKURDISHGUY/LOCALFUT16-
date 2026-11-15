@@ -1,0 +1,25 @@
+{
+  "input": "C:\\Users\\Aros\\Downloads\\players16.csv",
+  "expectedSchema": [
+    "id",
+    "name",
+    "rating",
+    "position",
+    "nation",
+    "league",
+    "club",
+    "rare"
+  ],
+  "dataRows": 17871,
+  "compatible": false,
+  "missingFields": [
+    "id",
+    "nation",
+    "rare"
+  ],
+  "nonNumericIdFields": [
+    "club",
+    "league"
+  ],
+  "reason": "Not imported. Numeric IDs must come from the source dataset; player names are never used to fabricate IDs."
+}

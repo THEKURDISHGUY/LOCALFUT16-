@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LocalFUT16/1.0.0": {
+        "runtime": {
+          "LocalFUT16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalFUT16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+D:\FUT_Reborn_Fixed\Release\Server\LocalFUT16.pdb
+D:\FUT_Reborn_Fixed\Release\Server\LocalFUT16.exe

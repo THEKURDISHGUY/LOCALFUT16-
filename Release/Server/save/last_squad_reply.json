@@ -1,0 +1,2117 @@
+{
+  "id": 1,
+  "personaId": 1000000002,
+  "squadName": "Squad 1",
+  "formation": "f433a",
+  "captain": 62,
+  "chemistry": 74,
+  "changed": 0,
+  "starRating": 3,
+  "rating": 0,
+  "custom": "[0,8,16,16,8,320,134220032,134220032,2394112,294920,2394112,0,2,2,2,2,2,2,2,2,2,2]",
+  "squadType": "REGULAR_SQUAD",
+  "players": [
+    {
+      "index": 0,
+      "kitNumber": 23,
+      "itemData": {
+        "id": 62,
+        "resourceId": 84053575,
+        "assetId": 167495,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 96,
+        "preferredPosition": "GK",
+        "rareflag": 5,
+        "nation": 21,
+        "leagueId": 19,
+        "teamid": 21,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 58,
+        "definitionId": 167495,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 21,
+        "fitness": 94,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Neuer",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 95
+          },
+          {
+            "index": 1,
+            "value": 92
+          },
+          {
+            "index": 2,
+            "value": 96
+          },
+          {
+            "index": 3,
+            "value": 95
+          },
+          {
+            "index": 4,
+            "value": 66
+          },
+          {
+            "index": 5,
+            "value": 97
+          }
+        ],
+        "face": [
+          95,
+          92,
+          96,
+          95,
+          66,
+          97
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 1,
+      "kitNumber": 2,
+      "itemData": {
+        "id": 50,
+        "resourceId": 84032610,
+        "assetId": 146530,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 92,
+        "preferredPosition": "RB",
+        "rareflag": 5,
+        "nation": 54,
+        "leagueId": 53,
+        "teamid": 241,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 48,
+        "definitionId": 146530,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 241,
+        "fitness": 57,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Dani Alves",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 93
+          },
+          {
+            "index": 1,
+            "value": 80
+          },
+          {
+            "index": 2,
+            "value": 88
+          },
+          {
+            "index": 3,
+            "value": 91
+          },
+          {
+            "index": 4,
+            "value": 90
+          },
+          {
+            "index": 5,
+            "value": 82
+          }
+        ],
+        "face": [
+          93,
+          80,
+          88,
+          91,
+          90,
+          82
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 2,
+      "kitNumber": 3,
+      "itemData": {
+        "id": 115,
+        "resourceId": 84050320,
+        "assetId": 164240,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 94,
+        "preferredPosition": "CB",
+        "rareflag": 5,
+        "nation": 54,
+        "leagueId": 16,
+        "teamid": 73,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 113,
+        "definitionId": 164240,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 73,
+        "fitness": 58,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Thiago Silva",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 82
+          },
+          {
+            "index": 1,
+            "value": 65
+          },
+          {
+            "index": 2,
+            "value": 81
+          },
+          {
+            "index": 3,
+            "value": 80
+          },
+          {
+            "index": 4,
+            "value": 96
+          },
+          {
+            "index": 5,
+            "value": 89
+          }
+        ],
+        "face": [
+          82,
+          65,
+          81,
+          80,
+          96,
+          89
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 3,
+      "kitNumber": 13,
+      "itemData": {
+        "id": 122,
+        "resourceId": 84041942,
+        "assetId": 155862,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 94,
+        "preferredPosition": "CB",
+        "rareflag": 5,
+        "nation": 45,
+        "leagueId": 53,
+        "teamid": 243,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 122,
+        "definitionId": 155862,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 243,
+        "fitness": 83,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Sergio Ramos",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 86
+          },
+          {
+            "index": 1,
+            "value": 70
+          },
+          {
+            "index": 2,
+            "value": 80
+          },
+          {
+            "index": 3,
+            "value": 74
+          },
+          {
+            "index": 4,
+            "value": 95
+          },
+          {
+            "index": 5,
+            "value": 90
+          }
+        ],
+        "face": [
+          86,
+          70,
+          80,
+          74,
+          95,
+          90
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793188026,
+        "dream": false
+      }
+    },
+    {
+      "index": 4,
+      "kitNumber": 5,
+      "itemData": {
+        "id": 38,
+        "resourceId": 84062756,
+        "assetId": 176676,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 89,
+        "preferredPosition": "LB",
+        "rareflag": 5,
+        "nation": 54,
+        "leagueId": 53,
+        "teamid": 243,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 38,
+        "definitionId": 176676,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 243,
+        "fitness": 54,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Marcelo",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 89
+          },
+          {
+            "index": 1,
+            "value": 75
+          },
+          {
+            "index": 2,
+            "value": 85
+          },
+          {
+            "index": 3,
+            "value": 91
+          },
+          {
+            "index": 4,
+            "value": 90
+          },
+          {
+            "index": 5,
+            "value": 88
+          }
+        ],
+        "face": [
+          89,
+          75,
+          85,
+          91,
+          90,
+          88
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 5,
+      "kitNumber": 10,
+      "itemData": {
+        "id": 119,
+        "resourceId": 84076951,
+        "assetId": 190871,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 97,
+        "preferredPosition": "LW",
+        "rareflag": 5,
+        "nation": 54,
+        "leagueId": 53,
+        "teamid": 241,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 119,
+        "definitionId": 190871,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 241,
+        "fitness": 51,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Neymar Jr",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 98
+          },
+          {
+            "index": 1,
+            "value": 95
+          },
+          {
+            "index": 2,
+            "value": 90
+          },
+          {
+            "index": 3,
+            "value": 99
+          },
+          {
+            "index": 4,
+            "value": 40
+          },
+          {
+            "index": 5,
+            "value": 73
+          }
+        ],
+        "face": [
+          98,
+          95,
+          90,
+          99,
+          40,
+          73
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 6,
+      "kitNumber": 6,
+      "itemData": {
+        "id": 110,
+        "resourceId": 83886121,
+        "assetId": 41,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 95,
+        "preferredPosition": "CM",
+        "rareflag": 5,
+        "nation": 45,
+        "leagueId": 53,
+        "teamid": 241,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 106,
+        "definitionId": 41,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 241,
+        "fitness": 54,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Iniesta",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 82
+          },
+          {
+            "index": 1,
+            "value": 81
+          },
+          {
+            "index": 2,
+            "value": 98
+          },
+          {
+            "index": 3,
+            "value": 96
+          },
+          {
+            "index": 4,
+            "value": 67
+          },
+          {
+            "index": 5,
+            "value": 72
+          }
+        ],
+        "face": [
+          82,
+          81,
+          98,
+          96,
+          67,
+          72
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 7,
+      "kitNumber": 7,
+      "itemData": {
+        "id": 57,
+        "resourceId": 84063083,
+        "assetId": 177003,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "CM",
+        "rareflag": 5,
+        "nation": 10,
+        "leagueId": 53,
+        "teamid": 243,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 53,
+        "definitionId": 177003,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 243,
+        "fitness": 53,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Modric",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 83
+          },
+          {
+            "index": 1,
+            "value": 83
+          },
+          {
+            "index": 2,
+            "value": 91
+          },
+          {
+            "index": 3,
+            "value": 95
+          },
+          {
+            "index": 4,
+            "value": 78
+          },
+          {
+            "index": 5,
+            "value": 75
+          }
+        ],
+        "face": [
+          83,
+          83,
+          91,
+          95,
+          78,
+          75
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 8,
+      "kitNumber": 8,
+      "itemData": {
+        "id": 118,
+        "resourceId": 84044103,
+        "assetId": 158023,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 99,
+        "preferredPosition": "RW",
+        "rareflag": 5,
+        "nation": 52,
+        "leagueId": 53,
+        "teamid": 241,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 118,
+        "definitionId": 158023,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 241,
+        "fitness": 62,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Messi",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 99
+          },
+          {
+            "index": 1,
+            "value": 98
+          },
+          {
+            "index": 2,
+            "value": 97
+          },
+          {
+            "index": 3,
+            "value": 99
+          },
+          {
+            "index": 4,
+            "value": 40
+          },
+          {
+            "index": 5,
+            "value": 75
+          }
+        ],
+        "face": [
+          99,
+          98,
+          97,
+          99,
+          40,
+          75
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 9,
+      "kitNumber": 9,
+      "itemData": {
+        "id": 120,
+        "resourceId": 84074625,
+        "assetId": 188545,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 98,
+        "preferredPosition": "ST",
+        "rareflag": 5,
+        "nation": 37,
+        "leagueId": 19,
+        "teamid": 21,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 120,
+        "definitionId": 188545,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 21,
+        "fitness": 58,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Lewandowski",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 90
+          },
+          {
+            "index": 1,
+            "value": 99
+          },
+          {
+            "index": 2,
+            "value": 89
+          },
+          {
+            "index": 3,
+            "value": 97
+          },
+          {
+            "index": 4,
+            "value": 50
+          },
+          {
+            "index": 5,
+            "value": 94
+          }
+        ],
+        "face": [
+          90,
+          99,
+          89,
+          97,
+          50,
+          94
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 10,
+      "kitNumber": 16,
+      "itemData": {
+        "id": 116,
+        "resourceId": 83906881,
+        "assetId": 20801,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 98,
+        "preferredPosition": "LW",
+        "rareflag": 5,
+        "nation": 38,
+        "leagueId": 53,
+        "teamid": 243,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 112,
+        "definitionId": 20801,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 243,
+        "fitness": 59,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Ronaldo",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 98
+          },
+          {
+            "index": 1,
+            "value": 98
+          },
+          {
+            "index": 2,
+            "value": 91
+          },
+          {
+            "index": 3,
+            "value": 98
+          },
+          {
+            "index": 4,
+            "value": 45
+          },
+          {
+            "index": 5,
+            "value": 89
+          }
+        ],
+        "face": [
+          98,
+          98,
+          91,
+          98,
+          45,
+          89
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 11,
+      "kitNumber": 12,
+      "itemData": {
+        "id": 45,
+        "resourceId": 50508228,
+        "assetId": 176580,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "ST",
+        "rareflag": 3,
+        "nation": 60,
+        "leagueId": 53,
+        "teamid": 241,
+        "lastSalePrice": 0,
+        "discardValue": 20000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 46,
+        "definitionId": 176580,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 241,
+        "fitness": 96,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Su\u00E1rez",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 88
+          },
+          {
+            "index": 1,
+            "value": 95
+          },
+          {
+            "index": 2,
+            "value": 92
+          },
+          {
+            "index": 3,
+            "value": 94
+          },
+          {
+            "index": 4,
+            "value": 56
+          },
+          {
+            "index": 5,
+            "value": 92
+          }
+        ],
+        "face": [
+          88,
+          95,
+          92,
+          94,
+          56,
+          92
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 12,
+      "kitNumber": 4,
+      "itemData": {
+        "id": 49,
+        "resourceId": 84023266,
+        "assetId": 137186,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 90,
+        "preferredPosition": "CB",
+        "rareflag": 5,
+        "nation": 27,
+        "leagueId": 31,
+        "teamid": 45,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 50,
+        "definitionId": 137186,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 45,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Barzagli",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 81
+          },
+          {
+            "index": 1,
+            "value": 41
+          },
+          {
+            "index": 2,
+            "value": 63
+          },
+          {
+            "index": 3,
+            "value": 70
+          },
+          {
+            "index": 4,
+            "value": 95
+          },
+          {
+            "index": 5,
+            "value": 86
+          }
+        ],
+        "face": [
+          81,
+          41,
+          63,
+          70,
+          95,
+          86
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 13,
+      "kitNumber": 14,
+      "itemData": {
+        "id": 43,
+        "resourceId": 84070167,
+        "assetId": 184087,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 88,
+        "preferredPosition": "CB",
+        "rareflag": 5,
+        "nation": 7,
+        "leagueId": 13,
+        "teamid": 18,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 44,
+        "definitionId": 184087,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 18,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Alderweireld",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 70
+          },
+          {
+            "index": 1,
+            "value": 72
+          },
+          {
+            "index": 2,
+            "value": 77
+          },
+          {
+            "index": 3,
+            "value": 72
+          },
+          {
+            "index": 4,
+            "value": 90
+          },
+          {
+            "index": 5,
+            "value": 86
+          }
+        ],
+        "face": [
+          70,
+          72,
+          77,
+          72,
+          90,
+          86
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 14,
+      "kitNumber": 11,
+      "itemData": {
+        "id": 76,
+        "resourceId": 84062715,
+        "assetId": 176635,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 94,
+        "preferredPosition": "CAM",
+        "rareflag": 5,
+        "nation": 21,
+        "leagueId": 13,
+        "teamid": 1,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 76,
+        "definitionId": 176635,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 1,
+        "fitness": 93,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "\u00D6zil",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 80
+          },
+          {
+            "index": 1,
+            "value": 86
+          },
+          {
+            "index": 2,
+            "value": 98
+          },
+          {
+            "index": 3,
+            "value": 95
+          },
+          {
+            "index": 4,
+            "value": 35
+          },
+          {
+            "index": 5,
+            "value": 70
+          }
+        ],
+        "face": [
+          80,
+          86,
+          98,
+          95,
+          35,
+          70
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 15,
+      "kitNumber": 15,
+      "itemData": {
+        "id": 56,
+        "resourceId": 84047728,
+        "assetId": 161648,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 90,
+        "preferredPosition": "CAM",
+        "rareflag": 5,
+        "nation": 18,
+        "leagueId": 16,
+        "teamid": 72,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 55,
+        "definitionId": 161648,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 72,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Ben Arfa",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 88
+          },
+          {
+            "index": 1,
+            "value": 93
+          },
+          {
+            "index": 2,
+            "value": 91
+          },
+          {
+            "index": 3,
+            "value": 96
+          },
+          {
+            "index": 4,
+            "value": 47
+          },
+          {
+            "index": 5,
+            "value": 87
+          }
+        ],
+        "face": [
+          88,
+          93,
+          91,
+          96,
+          47,
+          87
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 16,
+      "kitNumber": 1,
+      "itemData": {
+        "id": 71,
+        "resourceId": 83887259,
+        "assetId": 1179,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "GK",
+        "rareflag": 5,
+        "nation": 27,
+        "leagueId": 31,
+        "teamid": 45,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 70,
+        "definitionId": 1179,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 45,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Buffon",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 94
+          },
+          {
+            "index": 1,
+            "value": 92
+          },
+          {
+            "index": 2,
+            "value": 75
+          },
+          {
+            "index": 3,
+            "value": 94
+          },
+          {
+            "index": 4,
+            "value": 53
+          },
+          {
+            "index": 5,
+            "value": 97
+          }
+        ],
+        "face": [
+          94,
+          92,
+          75,
+          94,
+          53,
+          97
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 17,
+      "kitNumber": 17,
+      "itemData": {
+        "id": 82,
+        "resourceId": 84088206,
+        "assetId": 202126,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "ST",
+        "rareflag": 5,
+        "nation": 14,
+        "leagueId": 13,
+        "teamid": 18,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 81,
+        "definitionId": 202126,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 18,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Kane",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 83
+          },
+          {
+            "index": 1,
+            "value": 95
+          },
+          {
+            "index": 2,
+            "value": 86
+          },
+          {
+            "index": 3,
+            "value": 92
+          },
+          {
+            "index": 4,
+            "value": 55
+          },
+          {
+            "index": 5,
+            "value": 91
+          }
+        ],
+        "face": [
+          83,
+          95,
+          86,
+          92,
+          55,
+          91
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 18,
+      "kitNumber": 18,
+      "itemData": {
+        "id": 14,
+        "resourceId": 162899,
+        "assetId": 162899,
+        "itemType": "player",
+        "cardsubtypeid": 2,
+        "rating": 63,
+        "preferredPosition": "LB",
+        "rareflag": 0,
+        "nation": 14,
+        "leagueId": 60,
+        "teamid": 127,
+        "lastSalePrice": 0,
+        "discardValue": 150,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 14,
+        "definitionId": 162899,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 127,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "",
+        "quality": "bronze",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 56
+          },
+          {
+            "index": 1,
+            "value": 44
+          },
+          {
+            "index": 2,
+            "value": 60
+          },
+          {
+            "index": 3,
+            "value": 61
+          },
+          {
+            "index": 4,
+            "value": 63
+          },
+          {
+            "index": 5,
+            "value": 69
+          }
+        ],
+        "face": [
+          56,
+          44,
+          60,
+          61,
+          63,
+          69
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793136829,
+        "dream": false
+      }
+    },
+    {
+      "index": 19,
+      "kitNumber": 19,
+      "itemData": {
+        "id": 13,
+        "resourceId": 201212,
+        "assetId": 201212,
+        "itemType": "player",
+        "cardsubtypeid": 2,
+        "rating": 62,
+        "preferredPosition": "CB",
+        "rareflag": 0,
+        "nation": 35,
+        "leagueId": 60,
+        "teamid": 1954,
+        "lastSalePrice": 0,
+        "discardValue": 150,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 13,
+        "definitionId": 201212,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 1954,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "",
+        "quality": "bronze",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 64
+          },
+          {
+            "index": 1,
+            "value": 31
+          },
+          {
+            "index": 2,
+            "value": 52
+          },
+          {
+            "index": 3,
+            "value": 49
+          },
+          {
+            "index": 4,
+            "value": 63
+          },
+          {
+            "index": 5,
+            "value": 69
+          }
+        ],
+        "face": [
+          64,
+          31,
+          52,
+          49,
+          63,
+          69
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793136829,
+        "dream": false
+      }
+    },
+    {
+      "index": 20,
+      "kitNumber": 20,
+      "itemData": {
+        "id": 37,
+        "resourceId": 84076563,
+        "assetId": 190483,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 89,
+        "preferredPosition": "RM",
+        "rareflag": 5,
+        "nation": 54,
+        "leagueId": 19,
+        "teamid": 21,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 39,
+        "definitionId": 190483,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 21,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Douglas Costa",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 95
+          },
+          {
+            "index": 1,
+            "value": 86
+          },
+          {
+            "index": 2,
+            "value": 91
+          },
+          {
+            "index": 3,
+            "value": 92
+          },
+          {
+            "index": 4,
+            "value": 56
+          },
+          {
+            "index": 5,
+            "value": 72
+          }
+        ],
+        "face": [
+          95,
+          86,
+          91,
+          92,
+          56,
+          72
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 21,
+      "kitNumber": 21,
+      "itemData": {
+        "id": 41,
+        "resourceId": 84081944,
+        "assetId": 195864,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "CM",
+        "rareflag": 5,
+        "nation": 18,
+        "leagueId": 31,
+        "teamid": 45,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 37,
+        "definitionId": 195864,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 45,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Pogba",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 84
+          },
+          {
+            "index": 1,
+            "value": 87
+          },
+          {
+            "index": 2,
+            "value": 90
+          },
+          {
+            "index": 3,
+            "value": 93
+          },
+          {
+            "index": 4,
+            "value": 80
+          },
+          {
+            "index": 5,
+            "value": 94
+          }
+        ],
+        "face": [
+          84,
+          87,
+          90,
+          93,
+          80,
+          94
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    },
+    {
+      "index": 22,
+      "kitNumber": 22,
+      "itemData": {
+        "id": 66,
+        "resourceId": 84074647,
+        "assetId": 188567,
+        "itemType": "player",
+        "cardsubtypeid": 3,
+        "rating": 93,
+        "preferredPosition": "ST",
+        "rareflag": 5,
+        "nation": 115,
+        "leagueId": 19,
+        "teamid": 22,
+        "lastSalePrice": 0,
+        "discardValue": 70000,
+        "contract": 7,
+        "contracts": 7,
+        "itemId": 65,
+        "definitionId": 188567,
+        "resourceGameYear": 2016,
+        "loans": 0,
+        "teamId": 22,
+        "fitness": 99,
+        "owners": 1,
+        "training": 0,
+        "morale": 50,
+        "itemState": "free",
+        "pile": 0,
+        "lifetimeStats": [],
+        "name": "Aubameyang",
+        "quality": "gold",
+        "attributeList": [
+          {
+            "index": 0,
+            "value": 99
+          },
+          {
+            "index": 1,
+            "value": 95
+          },
+          {
+            "index": 2,
+            "value": 88
+          },
+          {
+            "index": 3,
+            "value": 91
+          },
+          {
+            "index": 4,
+            "value": 45
+          },
+          {
+            "index": 5,
+            "value": 83
+          }
+        ],
+        "face": [
+          99,
+          95,
+          88,
+          91,
+          45,
+          83
+        ],
+        "injuryGames": 0,
+        "injuryType": "none",
+        "suspension": 0,
+        "loyaltyBonus": 1,
+        "playStyle": 0,
+        "posMods": [],
+        "statsList": [],
+        "untradeable": false,
+        "tradeable": true,
+        "assists": 0,
+        "lifetimeAssists": 0,
+        "marketDataMinPrice": 150,
+        "marketDataMaxPrice": 15000000,
+        "timestamp": 1793181157,
+        "dream": false
+      }
+    }
+  ],
+  "actives": [
+    {
+      "resourceId": 6200000,
+      "assetId": 1,
+      "stadiumid": 1,
+      "cardassetid": 36,
+      "cardsubtypeid": 10,
+      "itemType": "stadium",
+      "family": "stadiums",
+      "table": "fcc_stadium",
+      "itemState": "activeStadium",
+      "rating": 90,
+      "rareflag": 1,
+      "category": 4,
+      "displayName": "Old Trafford",
+      "id": 117,
+      "itemId": 117,
+      "timestamp": 1793223668,
+      "pile": 0,
+      "owners": 1,
+      "untradeable": false,
+      "discardValue": 10,
+      "lastSalePrice": 0,
+      "weightrare": 100,
+      "resourceGameYear": 2016,
+      "marketDataMinPrice": 150,
+      "marketDataMaxPrice": 15000000,
+      "name": "Old Trafford"
+    },
+    {
+      "resourceId": 6300032,
+      "assetId": 14,
+      "teamid": 1334,
+      "cardassetid": 35,
+      "cardsubtypeid": 9,
+      "itemType": "kit",
+      "family": "kits",
+      "table": "fcc_kitcards",
+      "itemState": "activeHomeKit",
+      "rating": 84,
+      "rareflag": 1,
+      "category": 2,
+      "displayName": "Finland Home",
+      "id": 35,
+      "itemId": 35,
+      "timestamp": 1793223436,
+      "pile": 0,
+      "owners": 1,
+      "untradeable": false,
+      "discardValue": 10,
+      "lastSalePrice": 0,
+      "weightrare": 100,
+      "resourceGameYear": 2016,
+      "marketDataMinPrice": 150,
+      "marketDataMaxPrice": 15000000,
+      "name": "Finland Home"
+    },
+    {
+      "resourceId": 6400017,
+      "assetId": 15,
+      "teamid": 1334,
+      "cardassetid": 35,
+      "cardsubtypeid": 9,
+      "itemType": "kit",
+      "family": "kits",
+      "table": "fcc_kitcards",
+      "itemState": "activeAwayKit",
+      "rating": 84,
+      "rareflag": 1,
+      "category": 3,
+      "displayName": "Finland Away",
+      "id": 36,
+      "itemId": 36,
+      "timestamp": 1793223440,
+      "pile": 0,
+      "owners": 1,
+      "untradeable": false,
+      "discardValue": 10,
+      "lastSalePrice": 0,
+      "weightrare": 100,
+      "resourceGameYear": 2016,
+      "marketDataMinPrice": 150,
+      "marketDataMaxPrice": 15000000,
+      "name": "Finland Away"
+    },
+    {
+      "resourceId": 6000015,
+      "assetId": 1330,
+      "teamid": 1330,
+      "cardassetid": 39,
+      "cardsubtypeid": 11,
+      "itemType": "custom",
+      "family": "badges",
+      "table": "fcc_badgecards",
+      "itemState": "activeBadge",
+      "rating": 84,
+      "rareflag": 1,
+      "category": 1,
+      "displayName": "Czech Republic",
+      "id": 31,
+      "itemId": 31,
+      "timestamp": 1793223322,
+      "pile": 0,
+      "owners": 1,
+      "untradeable": false,
+      "discardValue": 10,
+      "lastSalePrice": 0,
+      "weightrare": 100,
+      "resourceGameYear": 2016,
+      "marketDataMinPrice": 150,
+      "marketDataMaxPrice": 15000000,
+      "name": "Czech Republic"
+    },
+    {
+      "resourceId": 8120170,
+      "assetId": 147,
+      "ballid": 147,
+      "cardassetid": 37,
+      "cardsubtypeid": 30,
+      "itemType": "ball",
+      "family": "balls",
+      "table": "fcc_balls",
+      "itemState": "activeBall",
+      "rating": 74,
+      "rareflag": 0,
+      "category": 1,
+      "displayName": "BallName_147",
+      "id": 24,
+      "timestamp": 1793223229,
+      "pile": 0,
+      "owners": 1,
+      "untradeable": false,
+      "discardValue": 10,
+      "lastSalePrice": 0,
+      "weightrare": 0,
+      "resourceGameYear": 2016,
+      "marketDataMinPrice": 150,
+      "marketDataMaxPrice": 15000000,
+      "name": "BallName_147"
+    }
+  ],
+  "manager": [],
+  "club": [],
+  "kicktakers": [
+    {
+      "index": 0,
+      "id": 62,
+      "dream": false
+    },
+    {
+      "index": 1,
+      "id": 50,
+      "dream": false
+    },
+    {
+      "index": 2,
+      "id": 115,
+      "dream": false
+    },
+    {
+      "index": 3,
+      "id": 122,
+      "dream": false
+    },
+    {
+      "index": 4,
+      "id": 38,
+      "dream": false
+    }
+  ]
+}

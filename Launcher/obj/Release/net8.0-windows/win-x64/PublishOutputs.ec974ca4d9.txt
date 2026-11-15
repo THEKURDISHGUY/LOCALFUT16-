@@ -1,0 +1,5 @@
+D:\FUT_Reborn_Fixed\Release\FUT_Reborn_Launcher.pdb
+D:\FUT_Reborn_Fixed\Release\Microsoft.Web.WebView2.Core.xml
+D:\FUT_Reborn_Fixed\Release\Microsoft.Web.WebView2.Wpf.xml
+D:\FUT_Reborn_Fixed\Release\Microsoft.Web.WebView2.WinForms.xml
+D:\FUT_Reborn_Fixed\Release\FUT_Reborn_Launcher.exe

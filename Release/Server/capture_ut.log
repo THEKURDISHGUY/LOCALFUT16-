@@ -1,0 +1,354 @@
+2026-10-29T14:47:06.7471708+03:00 POST //pow/auth
+  REQ : {
+    "isReadOnly":false,
+    "sku":"FFA16PCC",
+    "clientVersion":1,
+    "nuc":1000000002,
+    "nucleusPersonaId":1000000002,
+    "nucleusPersonaDisplayName":"TheKurdishGuy",
+    "locale":"en-US",
+    "priorityLevel":5,
+    "method":"authcode",
+    "identification":
+    {
+        "authCode":"QUOwANn37JNpH65K1DRwL48v3tdUZsshqvf5HwUj"
+    }
+}
+  RESP: 200 {}
+
+2026-10-29T14:47:06.7842130+03:00 GET /pow/healthcheck/system/all
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:06.7843866+03:00 GET /ut/ut/game/fifa16/settings
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:06.8170003+03:00 GET /pow/lvl/weight/tiergp/businessunit/tiertp/fifa?gametitle=fifa16
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:06.8498452+03:00 GET /pow/bank/user/account
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:47:06.8839430+03:00 GET /pow/store/game/fifa16/catalog/list
+  REQ : 
+  RESP: 200 {"catalogs":[{"catalogId":0,"name":"FUT Store"},{"catalogId":1,"name":"FIFAPoints"}]}
+
+2026-10-29T14:47:06.9245670+03:00 GET /pow/inventory/item/list?offset=0&count=50
+  REQ : 
+  RESP: 200 {"itemData":[{"id":122,"resourceId":84041942,"assetId":155862,"itemType":"player","cardsubtypeid":3,"rating":94,"preferredPosition":"CB","rareflag":5,"nation":45,"leagueId":53,"teamid":243,"lastSalePrice":0,"discardValue":70000,"contract":7,"contracts":7,"itemId":122,"definitionId":155862,"resourceGameYear":2016,"loans":0,"teamId":243,"fitness":83,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"Sergio Ramos","quality":"gold","attributeList":[{"index":0,"value":86},{"index":1,"value":70},{"index":2,"value":80},{"index":3,"value":74},{"index":4,"value":95},{"index":5,"value":90}],"face":[86,70,80,74,95,90],"injuryGames":0,"injuryType":"none","suspension":0,"loyaltyBonus":1,"playStyle":0,"posMods":[],"statsList":[],"untradeable":false,"tradeable":true,"assists":0,"lifetimeAssists":0,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"timestamp":1793188026},{"id":121,"itemId":121,"timestamp":1793269413,"resourceId":5002028,"cardassetid":9,"cardsubtypeid":218,"rating":60,"rareFlag":1,"rareflag":1,"bronze":0,"silver":0,"gold":0,"amount":1,"itemType":"development","resourceGameYear":2016,"discardValue":0,"lastSalePrice":0,"owners":1,"untradeable":false,"tradeable":true,"itemState":"free","pile":0,"consumableKind":"healing","consumablesHealing":1,"name":"Rare Bronze All Healing"},{"id":120,"resourceId":84074625,"assetId":188545,"itemType":"player","cardsubtypeid":3,"rating":98,"preferredPosition":"ST","rareflag":5,"nation":37,"leagueId":...
+
+2026-10-29T14:47:07.2660662+03:00 GET /pow/mm/game/fifa16/message/list?offset=0&count=10&screen=fifahubgen4
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.2997484+03:00 GET /pow/news/count/unread
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.3340601+03:00 GET /pow/bank/currency/pow_funds/cap/info
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:47:07.3654884+03:00 GET /pow/lvl/user/tiergp/businessunit/tiertp/fifa?self=true
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.3989952+03:00 GET /pow/communication/all?self=true&friendtiergp=PersonaId&friendtiertp=1000000002&offset=0&count=5&ed=20261029T114659Z
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.4322252+03:00 GET /pow/pfyc/user?self=true&friendtiergp=PersonaId&friendtiertp=1000000002
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.4658298+03:00 GET /pow/mm/game/fifa16/message/list?offset=0&count=10&screen=futhubgen4
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:07.5012688+03:00 GET /pow/store/game/fifa16/catalog/0/item/list?offset=0&count=49
+  REQ : 
+  RESP: 200 {"items":[],"endOfList":true}
+
+2026-10-29T14:47:07.5367438+03:00 GET /pow/inventory/item/list?offset=50&count=50
+  REQ : 
+  RESP: 200 {"itemData":[{"id":7,"resourceId":194792,"assetId":194792,"itemType":"player","cardsubtypeid":2,"rating":66,"preferredPosition":"CM","rareflag":0,"nation":14,"leagueId":14,"teamid":94,"lastSalePrice":0,"discardValue":150,"contract":7,"contracts":7,"itemId":7,"definitionId":194792,"resourceGameYear":2016,"loans":0,"teamId":94,"fitness":99,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"","quality":"silver","attributeList":[{"index":0,"value":73},{"index":1,"value":51},{"index":2,"value":64},{"index":3,"value":66},{"index":4,"value":68},{"index":5,"value":76}],"face":[73,51,64,66,68,76],"injuryGames":0,"injuryType":"none","suspension":0,"loyaltyBonus":1,"playStyle":0,"posMods":[],"statsList":[],"untradeable":false,"tradeable":true,"assists":0,"lifetimeAssists":0,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"timestamp":1793136829},{"id":6,"resourceId":172103,"assetId":172103,"itemType":"player","cardsubtypeid":2,"rating":59,"preferredPosition":"CM","rareflag":0,"nation":52,"leagueId":353,"teamid":111710,"lastSalePrice":0,"discardValue":100,"contract":7,"contracts":7,"itemId":6,"definitionId":172103,"resourceGameYear":2016,"loans":0,"teamId":111710,"fitness":99,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"","quality":"bronze","attributeList":[{"index":0,"value":84},{"index":1,"value":55},{"index":2,"value":58},{"index":3,"value":68},{"index":4,"value":45},{"index":5,"value":59}],"fa...
+
+2026-10-29T14:47:07.7900644+03:00 GET /ut/ut/game/fifa16/phishing/trusteddevice?deviceId=2df9eb6711c7d31ad49d64047a99d8d1
+  REQ : 
+  RESP: 200 {"trusted":true,"exists":true,"locked":false,"changed":false,"token":"fut-reborn-phishing-token","isTrusted":true,"completed":true,"answerRequired":false,"attempts":0,"deviceId":"2df9eb6711c7d31ad49d64047a99d8d1"}
+
+2026-10-29T14:47:08.2030109+03:00 GET /fut/loc/PC/leaderboards.ENG_US.xml
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.2032237+03:00 GET /ut/ut/game/fifa16/settings
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.2342931+03:00 PUT /ut/ut/game/fifa16/match/reset
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.2889614+03:00 GET /ut/ut/game/fifa16/user
+  REQ : 
+  RESP: 200 {"divisionOffline":10,"divisionOnline":10,"personaId":1000000002,"accountCreatedPlatformName":"pc","clubName":"thekurdishguy","clubAbbr":"TKG","clubNameChangeAllowed":0,"returningUser":1,"established":"1793223238","won":0,"draw":0,"loss":0,"trophies":0,"credits":80000000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"bidTokens":{"count":0,"updateTime":null},"actives":[{"resourceId":6200000,"assetId":1,"stadiumid":1,"cardassetid":36,"cardsubtypeid":10,"itemType":"stadium","family":"stadiums","table":"fcc_stadium","itemState":"activeStadium","rating":90,"rareflag":1,"category":4,"displayName":"Old Trafford","id":117,"itemId":117,"timestamp":1793223668,"pile":0,"owners":1,"untradeable":false,"discardValue":10,"lastSalePrice":0,"weightrare":100,"resourceGameYear":2016,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"name":"Old Trafford"},{"resourceId":6300032,"assetId":14,"teamid":1334,"cardassetid":35,"cardsubtypeid":9,"itemType":"kit","family":"kits","table":"fcc_kitcards","itemState":"activeHomeKit","rating":84,"rareflag":1,"category":2,"displayName":"Finland Home","id":35,"itemId":35,"timestamp":1793223436,"pile":0,"owners":1,"untradeable":false,"discardValue":10,"lastSalePrice":0,"weightrare":100,"resourceGameYear":2016,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"name":"Finland Home"},{"resourceId":6400017,"assetId":15,"teamid":1334,"carda...
+
+2026-10-29T14:47:08.3372105+03:00 GET /ut/ut/game/fifa16/userdata
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.3835445+03:00 GET /ut/ut/v2/game/fifa16/store/transaction
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.4160632+03:00 GET /ut/ut/game/fifa16/clientdata/tutorialpopups
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:08.4508180+03:00 PUT /ut/ut/v2/game/fifa16/store/transaction/0
+  REQ : {"state":"TRANSACTIONCANCEL"}
+  RESP: 200 {}
+
+2026-10-29T14:47:08.9199981+03:00 GET /ut/ut/game/fifa16/purchased/items
+  REQ : 
+  RESP: 200 {"numberItems":0,"duplicateItemIdList":[],"itemData":[]}
+
+2026-10-29T14:47:08.9673308+03:00 GET /ut/ut/game/fifa16/user
+  REQ : 
+  RESP: 200 {"divisionOffline":10,"divisionOnline":10,"personaId":1000000002,"accountCreatedPlatformName":"pc","clubName":"thekurdishguy","clubAbbr":"TKG","clubNameChangeAllowed":0,"returningUser":1,"established":"1793223238","won":0,"draw":0,"loss":0,"trophies":0,"credits":80000000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"bidTokens":{"count":0,"updateTime":null},"actives":[{"resourceId":6200000,"assetId":1,"stadiumid":1,"cardassetid":36,"cardsubtypeid":10,"itemType":"stadium","family":"stadiums","table":"fcc_stadium","itemState":"activeStadium","rating":90,"rareflag":1,"category":4,"displayName":"Old Trafford","id":117,"itemId":117,"timestamp":1793223668,"pile":0,"owners":1,"untradeable":false,"discardValue":10,"lastSalePrice":0,"weightrare":100,"resourceGameYear":2016,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"name":"Old Trafford"},{"resourceId":6300032,"assetId":14,"teamid":1334,"cardassetid":35,"cardsubtypeid":9,"itemType":"kit","family":"kits","table":"fcc_kitcards","itemState":"activeHomeKit","rating":84,"rareflag":1,"category":2,"displayName":"Finland Home","id":35,"itemId":35,"timestamp":1793223436,"pile":0,"owners":1,"untradeable":false,"discardValue":10,"lastSalePrice":0,"weightrare":100,"resourceGameYear":2016,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"name":"Finland Home"},{"resourceId":6400017,"assetId":15,"teamid":1334,"carda...
+
+2026-10-29T14:47:09.0170395+03:00 GET /ut/ut/game/fifa16/clientdata/pileSize
+  REQ : 
+  RESP: 200 {"entries":[{"value":100,"key":2},{"value":100,"key":4},{"value":2000,"key":0},{"value":2000,"key":1},{"value":2000,"key":3},{"value":2000,"key":5},{"value":2000,"key":6},{"value":2000,"key":7},{"value":2000,"key":8},{"value":2000,"key":9},{"value":2000,"key":10}]}
+
+2026-10-29T14:47:09.0506062+03:00 GET /ut/ut/game/fifa16/clientdata/userHubData
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:09.0844539+03:00 GET /ut/ut/game/fifa16/clientdata/managerquest
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:09.1175560+03:00 GET /ut/ut/game/fifa16/clientdata/loanPlayerReward
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:09.1507213+03:00 GET /ut/ut/game/fifa16/loan/players
+  REQ : 
+  RESP: 200 {"loans":[{"id":25,"resourceId":225391,"assetId":225391,"itemType":"player","cardsubtypeid":2,"rating":66,"preferredPosition":"LM","rareflag":0,"nation":60,"leagueId":54,"teamid":463,"lastSalePrice":0,"discardValue":150,"contract":7,"contracts":7,"itemId":25,"definitionId":225391,"resourceGameYear":2016,"loans":10,"teamId":463,"fitness":99,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"","quality":"silver","attributeList":[{"index":0,"value":68},{"index":1,"value":57},{"index":2,"value":68},{"index":3,"value":67},{"index":4,"value":44},{"index":5,"value":59}],"face":[68,57,68,67,44,59],"loanPlayer":true},{"id":26,"resourceId":184637,"assetId":184637,"itemType":"player","cardsubtypeid":2,"rating":66,"preferredPosition":"CDM","rareflag":0,"nation":34,"leagueId":10,"teamid":647,"lastSalePrice":0,"discardValue":150,"contract":7,"contracts":7,"itemId":26,"definitionId":184637,"resourceGameYear":2016,"loans":10,"teamId":647,"fitness":99,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"","quality":"silver","attributeList":[{"index":0,"value":68},{"index":1,"value":57},{"index":2,"value":68},{"index":3,"value":64},{"index":4,"value":60},{"index":5,"value":67}],"face":[68,57,68,64,60,67],"loanPlayer":true},{"id":27,"resourceId":192274,"assetId":192274,"itemType":"player","cardsubtypeid":2,"rating":74,"preferredPosition":"CAM","rareflag":0,"nation":129,"leagueId":16,"teamid":219,"lastSalePrice":0,"dis...
+
+2026-10-29T14:47:09.2137088+03:00 GET /ut/ut/game/fifa16/squad/active?active=true
+  REQ : 
+  RESP: 200 {"id":1,"personaId":1000000002,"squadName":"Squad 1","formation":"f433a","captain":62,"chemistry":74,"changed":0,"starRating":3,"rating":0,"custom":"[0,8,16,16,8,320,134220032,134220032,2394112,294920,2394112,0,2,2,2,2,2,2,2,2,2,2]","squadType":"REGULAR_SQUAD","players":[{"index":0,"kitNumber":23,"itemData":{"id":62,"resourceId":84053575,"assetId":167495,"itemType":"player","cardsubtypeid":3,"rating":96,"preferredPosition":"GK","rareflag":5,"nation":21,"leagueId":19,"teamid":21,"lastSalePrice":0,"discardValue":70000,"contract":7,"contracts":7,"itemId":58,"definitionId":167495,"resourceGameYear":2016,"loans":0,"teamId":21,"fitness":94,"owners":1,"training":0,"morale":50,"itemState":"free","pile":0,"lifetimeStats":[],"name":"Neuer","quality":"gold","attributeList":[{"index":0,"value":95},{"index":1,"value":92},{"index":2,"value":96},{"index":3,"value":95},{"index":4,"value":66},{"index":5,"value":97}],"face":[95,92,96,95,66,97],"injuryGames":0,"injuryType":"none","suspension":0,"loyaltyBonus":1,"playStyle":0,"posMods":[],"statsList":[],"untradeable":false,"tradeable":true,"assists":0,"lifetimeAssists":0,"marketDataMinPrice":150,"marketDataMaxPrice":15000000,"timestamp":1793181157,"dream":false}},{"index":1,"kitNumber":2,"itemData":{"id":50,"resourceId":84032610,"assetId":146530,"itemType":"player","cardsubtypeid":3,"rating":92,"preferredPosition":"RB","rareflag":5,"nation":54,"leagueId":53,"teamid":241,"lastSalePrice":0,"discardValue":70000,"contract":7,"contracts":7,"itemId":4...
+
+2026-10-29T14:47:14.1186016+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:47:14.1684576+03:00 GET /ut/ut/game/fifa16/clubUser
+  REQ : 
+  RESP: 200 {"userInfo":{"nucleusId":1000000002,"personaId":1000000002,"personaName":"TheKurdishGuy","clubName":"thekurdishguy","clubAbbr":"TKG","established":"2026-10-11"},"clubName":"thekurdishguy","personaName":"TheKurdishGuy"}
+
+2026-10-29T14:47:14.3278455+03:00 GET /pow/mm/game/fifa16/message/list?offset=0&count=10&screen=easfcnewsalerts
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:14.3667667+03:00 GET /pow/news/user?self=true&friends=true&friendtiergp=PersonaId&friendtiertp=1000000002&shared=true&count=7&includeActions=true&edt=20420713T010403Z&extras=userLike&sku=FFA16PCC&viewingSku=FFA16PCC
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:47:23.0025457+03:00 GET /fut/packs/loc/storepackdescriptions.en_us.xml
+  REQ : 
+  RESP: 200 <?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="storepackdescriptions" source-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="FUT_STORE_PACK_100_NAME" resname="FUT_STORE_PACK_100_NAME"><source>Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_100_DESC" resname="FUT_STORE_PACK_100_DESC"><source>3 bronze players</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_100_NAME_MOBILE" resname="FUT_STORE_PACK_100_NAME_MOBILE"><source>Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_NAME" resname="FUT_STORE_PACK_101_NAME"><source>Premium Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_DESC" resname="FUT_STORE_PACK_101_DESC"><source>3 bronze players, 1 rare</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_NAME_MOBILE" resname="FUT_STORE_PACK_101_NAME_MOBILE"><source>Premium Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_NAME" resname="FUT_STORE_PACK_102_NAME"><source>Jumbo Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_DESC" resname="FUT_STORE_PACK_102_DESC"><source>6 bronze players</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_NAME_MOBILE" resname="FUT_STORE_PACK_102_NAME_MOBILE"><source>Jumbo Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_103_NAME" resname="FUT_STORE_PACK_103_NAME"><source>Jumbo Premium Bronze Pack</source></trans-unit>
+    ...
+
+2026-10-29T14:47:23.7348233+03:00 GET /ut/ut/game/fifa16/season/list?active=true&count=99&divisionList=10&type=offline
+  REQ : 
+  RESP: 200 {"seasons":[{"id":1,"divisionId":1,"type":"OFFLINE","numMatches":10,"matchLengthMin":6,"matches":[{"teamId":10,"difficulty":5,"rewardMult":1,"roundId":0,"coins":300},{"teamId":243,"difficulty":5,"rewardMult":1,"roundId":1,"coins":325},{"teamId":5,"difficulty":5,"rewardMult":1,"roundId":2,"coins":350},{"teamId":21,"difficulty":5,"rewardMult":1,"roundId":3,"coins":375},{"teamId":52,"difficulty":5,"rewardMult":1,"roundId":4,"coins":400},{"teamId":73,"difficulty":5,"rewardMult":1,"roundId":5,"coins":425},{"teamId":240,"difficulty":5,"rewardMult":1,"roundId":6,"coins":450},{"teamId":241,"difficulty":5,"rewardMult":1,"roundId":7,"coins":475},{"teamId":22,"difficulty":5,"rewardMult":1,"roundId":8,"coins":500},{"teamId":11,"difficulty":5,"rewardMult":1,"roundId":9,"coins":525}],"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMappings":[{"awards":[]}]},{"prizeLevel":"MAINTENANCE","thresholdPoint":18,"awardMappings":[{"awards":[{"type":"coin","value":2000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"PROMOTION","thresholdPoint":23,"awardMappings":[{"awards":[{"type":"coin","value":9600,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"CHAMPIONSHIP","thresholdPoint":26,"awardMappings":[{"awards":[{"type":"coin","value":10000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]}],"elgOperation":"AND","elgReq":[],"trophyResourceId":1100,"trophyUseCount":0,"visStartDays":3650,"visEndDays":3650,"startDateTime":0,"endDateTime":2147483647,"untilStartSec...
+
+2026-10-29T14:47:23.9181025+03:00 GET /ut/ut/game/fifa16/season/user?type=offline
+  REQ : 
+  RESP: 200 {"data":"EAAAAAYBAAAAAAAAAAAAAAAAAAA=","dataVersion":2,"seasonData":"EAAAAAYBAAAAAAAAAAAAAAAAAAA=","seasonDataVersion":2,"progressData":"AwAAAAwJAA==","progressDataVersion":2,"progressdata":"AwAAAAwJAA==","seasonId":10,"divisionId":10,"offlineDivision":10,"type":"offline","round":1,"active":true,"seasonState":"active","seasonCompleted":false,"seasonEndResult":0,"creationTime":1793188043,"points":0,"wins":0,"draws":0,"losses":0,"seasonGamesWon":0,"seasonGamesDraw":0,"seasonGamesLost":0}
+
+2026-10-29T14:47:24.6414617+03:00 GET /ut/ut/game/fifa16/season/user/history?type=offline
+  REQ : 
+  RESP: 200 {"seasonGamesWon":0,"seasonGamesDraw":0,"seasonGamesLost":0,"seasonCompleted":1,"seasonsScoredGoals":0,"seasonConcededGoals":0}
+
+2026-10-29T14:47:27.9892307+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:47:29.8380427+03:00 GET /ut/ut/game/fifa16/tournament/list?active=true&count=99
+  REQ : 
+  RESP: 200 {"tournaments":[{"id":2003,"tournamentId":2003,"name":"FUT REBORN Tournament - Bronze","tournamentName":"FUT REBORN Tournament - Bronze","title":"FUT REBORN Tournament - Bronze","description":"FUT REBORN single player tournament","desc":"FUT REBORN single player tournament","state":"ACTIVE","status":"ACTIVE","active":true,"isActive":true,"available":true,"unlocked":true,"type":"OFFLINE","mode":"SINGLE_PLAYER","tournamentType":"SINGLE_PLAYER","category":"FIXED","order":0,"difficulty":"BEGINNER","rounds":4,"totalRounds":4,"numRounds":4,"bestOf":16,"size":16,"entryFeeCoins":0,"entryFeePoints":0,"entryCostCoins":0,"coinsCost":0,"pointsCost":0,"price":0,"startTime":1793188049,"endTime":1824810449,"openTime":1793188049,"closeTime":1824810449,"requirements":[],"rewards":[],"prizes":[],"trophies":0,"tournamentState":"ACTIVE","enabled":true,"visible":true,"joinable":true,"entered":false,"currentRound":0,"matches":[{"teamId":66,"difficulty":2,"rewardMult":1,"roundId":0,"coins":300},{"teamId":44,"difficulty":2,"rewardMult":1,"roundId":1,"coins":325},{"teamId":448,"difficulty":2,"rewardMult":1,"roundId":2,"coins":350}],"winsNeeded":3,"maxLosses":1,"currencyType":"COINS","assetId":3,"tournamentStatus":"ACTIVE","tournamentLevel":1,"tournamentRule":{},"tournamentResult":{},"tournament_id":2003,"tournament_category":1,"tournamentofficial":false,"tournamentballid":0,"tournamentEligible":true,"numMatches":3,"matchLengthMin":6,"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMapp...
+
+2026-10-29T14:47:29.9340529+03:00 GET /ut/ut/game/fifa16/tournament/user/list
+  REQ : 
+  RESP: 200 {"tournaments":[],"userTournaments":[],"totalResults":0}
+
+2026-10-29T14:47:32.1213833+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:47:33.8906532+03:00 GET /ut/ut/game/fifa16/season/list?active=true&count=99&divisionList=10&type=offline
+  REQ : 
+  RESP: 200 {"seasons":[{"id":1,"divisionId":1,"type":"OFFLINE","numMatches":10,"matchLengthMin":6,"matches":[{"teamId":10,"difficulty":5,"rewardMult":1,"roundId":0,"coins":300},{"teamId":243,"difficulty":5,"rewardMult":1,"roundId":1,"coins":325},{"teamId":5,"difficulty":5,"rewardMult":1,"roundId":2,"coins":350},{"teamId":21,"difficulty":5,"rewardMult":1,"roundId":3,"coins":375},{"teamId":52,"difficulty":5,"rewardMult":1,"roundId":4,"coins":400},{"teamId":73,"difficulty":5,"rewardMult":1,"roundId":5,"coins":425},{"teamId":240,"difficulty":5,"rewardMult":1,"roundId":6,"coins":450},{"teamId":241,"difficulty":5,"rewardMult":1,"roundId":7,"coins":475},{"teamId":22,"difficulty":5,"rewardMult":1,"roundId":8,"coins":500},{"teamId":11,"difficulty":5,"rewardMult":1,"roundId":9,"coins":525}],"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMappings":[{"awards":[]}]},{"prizeLevel":"MAINTENANCE","thresholdPoint":18,"awardMappings":[{"awards":[{"type":"coin","value":2000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"PROMOTION","thresholdPoint":23,"awardMappings":[{"awards":[{"type":"coin","value":9600,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"CHAMPIONSHIP","thresholdPoint":26,"awardMappings":[{"awards":[{"type":"coin","value":10000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]}],"elgOperation":"AND","elgReq":[],"trophyResourceId":1100,"trophyUseCount":0,"visStartDays":3650,"visEndDays":3650,"startDateTime":0,"endDateTime":2147483647,"untilStartSec...
+
+2026-10-29T14:47:33.9860068+03:00 GET /ut/ut/game/fifa16/season/user?type=offline
+  REQ : 
+  RESP: 200 {"data":"EAAAAAYBAAAAAAAAAAAAAAAAAAA=","dataVersion":2,"seasonData":"EAAAAAYBAAAAAAAAAAAAAAAAAAA=","seasonDataVersion":2,"progressData":"AwAAAAwJAA==","progressDataVersion":2,"progressdata":"AwAAAAwJAA==","seasonId":10,"divisionId":10,"offlineDivision":10,"type":"offline","round":1,"active":true,"seasonState":"active","seasonCompleted":false,"seasonEndResult":0,"creationTime":1793188053,"points":0,"wins":0,"draws":0,"losses":0,"seasonGamesWon":0,"seasonGamesDraw":0,"seasonGamesLost":0}
+
+2026-10-29T14:47:34.7079297+03:00 GET /ut/ut/game/fifa16/season/user/history?type=offline
+  REQ : 
+  RESP: 200 {"seasonGamesWon":0,"seasonGamesDraw":0,"seasonGamesLost":0,"seasonCompleted":1,"seasonsScoredGoals":0,"seasonConcededGoals":0}
+
+2026-10-29T14:47:37.7038879+03:00 PUT /ut/ut/game/fifa16/season/10/division/10/reset
+  REQ : {"round":0,"dataVersion":2,"data":"AAAAAA==","progressDataVersion":2,"progressData":"AAAAAA=="}
+  RESP: 200 {"seasonId":10,"divisionId":1,"offlineDivision":10,"type":"offline","round":1,"active":false,"seasonState":"inactive","seasonCompleted":false,"seasonEndResult":0,"creationTime":1793188057,"points":0,"wins":0,"draws":0,"losses":0,"credits":80000000}
+
+2026-10-29T14:47:38.1898734+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:47:40.0884739+03:00 GET /ut/ut/game/fifa16/season/list?active=true&count=99&divisionList=10&type=offline
+  REQ : 
+  RESP: 200 {"seasons":[{"id":1,"divisionId":1,"type":"OFFLINE","numMatches":10,"matchLengthMin":6,"matches":[{"teamId":10,"difficulty":5,"rewardMult":1,"roundId":0,"coins":300},{"teamId":243,"difficulty":5,"rewardMult":1,"roundId":1,"coins":325},{"teamId":5,"difficulty":5,"rewardMult":1,"roundId":2,"coins":350},{"teamId":21,"difficulty":5,"rewardMult":1,"roundId":3,"coins":375},{"teamId":52,"difficulty":5,"rewardMult":1,"roundId":4,"coins":400},{"teamId":73,"difficulty":5,"rewardMult":1,"roundId":5,"coins":425},{"teamId":240,"difficulty":5,"rewardMult":1,"roundId":6,"coins":450},{"teamId":241,"difficulty":5,"rewardMult":1,"roundId":7,"coins":475},{"teamId":22,"difficulty":5,"rewardMult":1,"roundId":8,"coins":500},{"teamId":11,"difficulty":5,"rewardMult":1,"roundId":9,"coins":525}],"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMappings":[{"awards":[]}]},{"prizeLevel":"MAINTENANCE","thresholdPoint":18,"awardMappings":[{"awards":[{"type":"coin","value":2000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"PROMOTION","thresholdPoint":23,"awardMappings":[{"awards":[{"type":"coin","value":9600,"assetId":0,"count":1,"halId":0,"teamId":0}]}]},{"prizeLevel":"CHAMPIONSHIP","thresholdPoint":26,"awardMappings":[{"awards":[{"type":"coin","value":10000,"assetId":0,"count":1,"halId":0,"teamId":0}]}]}],"elgOperation":"AND","elgReq":[],"trophyResourceId":1100,"trophyUseCount":0,"visStartDays":3650,"visEndDays":3650,"startDateTime":0,"endDateTime":2147483647,"untilStartSec...
+
+2026-10-29T14:47:40.1861394+03:00 GET /ut/ut/game/fifa16/season/user?type=offline
+  REQ : 
+  RESP: 200 {"seasonId":10,"divisionId":1,"offlineDivision":10,"type":"offline","round":1,"active":false,"seasonState":"inactive","seasonCompleted":false,"seasonEndResult":0,"creationTime":1793188060,"points":0,"wins":0,"draws":0,"losses":0}
+
+2026-10-29T14:49:04.5074476+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:49:04.8679050+03:00 GET /pow/news/count/unread
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:04.9182183+03:00 GET /pow/bank/user/account
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:49:04.9713806+03:00 GET /pow/bank/currency/pow_funds/cap/info
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:49:05.0182334+03:00 GET /pow/lvl/user/tiergp/businessunit/tiertp/fifa?self=true
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:05.0686592+03:00 GET /pow/communication/all?self=true&friendtiergp=PersonaId&friendtiertp=1000000002&offset=0&count=5&ed=20420713T010553Z
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:05.1165451+03:00 GET /pow/pfyc/user?self=true&friendtiergp=PersonaId&friendtiertp=1000000002
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:05.1765502+03:00 GET /pow/mm/game/fifa16/message/list?offset=0&count=10&screen=easfcnewsalerts
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:05.2186589+03:00 GET /pow/news/user?self=true&friends=true&friendtiergp=PersonaId&friendtiertp=1000000002&shared=true&count=7&includeActions=true&edt=20420713T010553Z&extras=userLike&sku=FFA16PCC&viewingSku=FFA16PCC
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:06.8780867+03:00 GET /ut/ut/game/fifa16/tournament/list?active=true&count=99
+  REQ : 
+  RESP: 200 {"tournaments":[{"id":2003,"tournamentId":2003,"name":"FUT REBORN Tournament - Bronze","tournamentName":"FUT REBORN Tournament - Bronze","title":"FUT REBORN Tournament - Bronze","description":"FUT REBORN single player tournament","desc":"FUT REBORN single player tournament","state":"ACTIVE","status":"ACTIVE","active":true,"isActive":true,"available":true,"unlocked":true,"type":"OFFLINE","mode":"SINGLE_PLAYER","tournamentType":"SINGLE_PLAYER","category":"FIXED","order":0,"difficulty":"BEGINNER","rounds":4,"totalRounds":4,"numRounds":4,"bestOf":16,"size":16,"entryFeeCoins":0,"entryFeePoints":0,"entryCostCoins":0,"coinsCost":0,"pointsCost":0,"price":0,"startTime":1793188146,"endTime":1824810546,"openTime":1793188146,"closeTime":1824810546,"requirements":[],"rewards":[],"prizes":[],"trophies":0,"tournamentState":"ACTIVE","enabled":true,"visible":true,"joinable":true,"entered":false,"currentRound":0,"matches":[{"teamId":66,"difficulty":2,"rewardMult":1,"roundId":0,"coins":300},{"teamId":44,"difficulty":2,"rewardMult":1,"roundId":1,"coins":325},{"teamId":448,"difficulty":2,"rewardMult":1,"roundId":2,"coins":350}],"winsNeeded":3,"maxLosses":1,"currencyType":"COINS","assetId":3,"tournamentStatus":"ACTIVE","tournamentLevel":1,"tournamentRule":{},"tournamentResult":{},"tournament_id":2003,"tournament_category":1,"tournamentofficial":false,"tournamentballid":0,"tournamentEligible":true,"numMatches":3,"matchLengthMin":6,"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMapp...
+
+2026-10-29T14:49:06.9665616+03:00 GET /ut/ut/game/fifa16/tournament/user/list
+  REQ : 
+  RESP: 200 {"tournaments":[],"userTournaments":[],"totalResults":0}
+
+2026-10-29T14:49:33.8559678+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:49:39.2310305+03:00 GET /ut/ut/game/fifa16/tournament/list?active=true&count=99
+  REQ : 
+  RESP: 200 {"tournaments":[{"id":2003,"tournamentId":2003,"name":"FUT REBORN Tournament - Bronze","tournamentName":"FUT REBORN Tournament - Bronze","title":"FUT REBORN Tournament - Bronze","description":"FUT REBORN single player tournament","desc":"FUT REBORN single player tournament","state":"ACTIVE","status":"ACTIVE","active":true,"isActive":true,"available":true,"unlocked":true,"type":"OFFLINE","mode":"SINGLE_PLAYER","tournamentType":"SINGLE_PLAYER","category":"FIXED","order":0,"difficulty":"BEGINNER","rounds":4,"totalRounds":4,"numRounds":4,"bestOf":16,"size":16,"entryFeeCoins":0,"entryFeePoints":0,"entryCostCoins":0,"coinsCost":0,"pointsCost":0,"price":0,"startTime":1793188179,"endTime":1824810579,"openTime":1793188179,"closeTime":1824810579,"requirements":[],"rewards":[],"prizes":[],"trophies":0,"tournamentState":"ACTIVE","enabled":true,"visible":true,"joinable":true,"entered":false,"currentRound":0,"matches":[{"teamId":66,"difficulty":2,"rewardMult":1,"roundId":0,"coins":300},{"teamId":44,"difficulty":2,"rewardMult":1,"roundId":1,"coins":325},{"teamId":448,"difficulty":2,"rewardMult":1,"roundId":2,"coins":350}],"winsNeeded":3,"maxLosses":1,"currencyType":"COINS","assetId":3,"tournamentStatus":"ACTIVE","tournamentLevel":1,"tournamentRule":{},"tournamentResult":{},"tournament_id":2003,"tournament_category":1,"tournamentofficial":false,"tournamentballid":0,"tournamentEligible":true,"numMatches":3,"matchLengthMin":6,"prizeSet":[{"prizeLevel":"RELEGATION","thresholdPoint":0,"awardMapp...
+
+2026-10-29T14:49:39.3175135+03:00 GET /ut/ut/game/fifa16/tournament/user/list
+  REQ : 
+  RESP: 200 {"tournaments":[],"userTournaments":[],"totalResults":0}
+
+2026-10-29T14:49:41.8094924+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:49:45.8674669+03:00 GET /pow/mm/game/fifa16/message/list?offset=0&count=10&screen=futhubgen4
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:49:47.1379692+03:00 GET /ut/ut/game/fifa16/user/credits
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0}}
+
+2026-10-29T14:49:47.1982653+03:00 GET /ut/ut/game/fifa16/store/purchasegroup/all?ppInfo=true
+  REQ : 
+  RESP: 200 {"purchase":[{"actionType":"CREATEPACK","assetId":1,"bonus":0,"currencies":[{"name":"COINS","funds":0,"finalFunds":0},{"name":"POINTS","funds":0,"finalFunds":0}],"name":"Starter Pack","packName":"Starter Pack","displayName":"Starter Pack","title":"Starter Pack","description":"Starter Pack","packDescription":"FREE one-time pack: 8 gold players to start your club","longDescription":"FREE one-time pack: 8 gold players to start your club","shortDescription":"FREE one-time pack: 8 gold players to start your club","bio":"FREE one-time pack: 8 gold players to start your club","label":"Starter Pack","displayLabel":"Starter Pack","storePackName":"Starter Pack","nameToken":"FUT_STORE_PACK_450_NAME","descriptionToken":"FUT_STORE_PACK_450_DESC","displayGroup":{"priority":1,"value":"bronze"},"displayGroupAssetId":1,"displayGroupUseDefaultImage":true,"end":2108634587,"firstPartyStoreId":"0","id":450,"packId":450,"packType":"BRONZE","packTypeId":450,"purchasePackType":"CARDPACK","purchaseCount":0,"purchaseLimit":999999,"quantity":8,"isPremium":false,"isSeasonTicketDiscount":false,"points":0,"coins":0,"priority":450,"saleType":"NONE","sortPriority":450,"start":1793188187,"state":"active","unopened":false,"useDefaultImage":true,"visible":true,"isPurchaseable":true,"finalPrice":0,"originalPrice":0,"group":"bronze","groupName":"Bronze Packs","isPromo":false,"category":"bronze","categoryId":1,"packContentInfo":{"itemQuantity":8,"goldQuantity":0,"silverQuantity":1,"bronzeQuantity":7,"rareQuantity...
+
+2026-10-29T14:49:47.3021924+03:00 GET /fut/packs/loc/storepackdescriptions.en_us.xml
+  REQ : 
+  RESP: 200 <?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="storepackdescriptions" source-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="FUT_STORE_PACK_100_NAME" resname="FUT_STORE_PACK_100_NAME"><source>Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_100_DESC" resname="FUT_STORE_PACK_100_DESC"><source>3 bronze players</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_100_NAME_MOBILE" resname="FUT_STORE_PACK_100_NAME_MOBILE"><source>Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_NAME" resname="FUT_STORE_PACK_101_NAME"><source>Premium Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_DESC" resname="FUT_STORE_PACK_101_DESC"><source>3 bronze players, 1 rare</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_101_NAME_MOBILE" resname="FUT_STORE_PACK_101_NAME_MOBILE"><source>Premium Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_NAME" resname="FUT_STORE_PACK_102_NAME"><source>Jumbo Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_DESC" resname="FUT_STORE_PACK_102_DESC"><source>6 bronze players</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_102_NAME_MOBILE" resname="FUT_STORE_PACK_102_NAME_MOBILE"><source>Jumbo Bronze Pack</source></trans-unit>
+      <trans-unit id="FUT_STORE_PACK_103_NAME" resname="FUT_STORE_PACK_103_NAME"><source>Jumbo Premium Bronze Pack</source></trans-unit>
+    ...
+
+2026-10-29T14:49:52.6589674+03:00 GET /ut/ut/game/fifa16/hub
+  REQ : 
+  RESP: 200 {"credits":80000000,"bidTokens":{"count":0,"updateTime":null},"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000},{"name":"BIDTOKEN","funds":0,"finalFunds":0}],"unopenedPacks":{"preOrderPacks":0,"recoveredPacks":0},"clubName":"thekurdishguy","personaName":"TheKurdishGuy","divisionOffline":10,"divisionOnline":10,"auctionCount":35969,"liveTransfers":35969,"liveTransferCount":35969,"marketCount":35969,"clubPlayers":41,"watchlist":{"count":0,"outbid":0,"winning":0},"tradePile":{"count":1,"selling":0,"sold":1,"maximum":100}}
+
+2026-10-29T14:51:04.0343006+03:00 GET /pow/news/count/unread
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:51:04.0827486+03:00 GET /pow/bank/user/account
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:51:04.1340595+03:00 GET /pow/bank/currency/pow_funds/cap/info
+  REQ : 
+  RESP: 200 {"credits":80000000,"balance":5000,"currencies":[{"name":"COINS","funds":80000000,"finalFunds":80000000},{"name":"POINTS","funds":5000,"finalFunds":5000}]}
+
+2026-10-29T14:51:04.1830090+03:00 GET /pow/lvl/user/tiergp/businessunit/tiertp/fifa?self=true
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:51:04.2341420+03:00 GET /pow/communication/all?self=true&friendtiergp=PersonaId&friendtiertp=1000000002&offset=0&count=5&ed=20420713T010753Z
+  REQ : 
+  RESP: 200 {}
+
+2026-10-29T14:51:04.2838145+03:00 GET /pow/pfyc/user?self=true&friendtiergp=PersonaId&friendtiertp=1000000002
+  REQ : 
+  RESP: 200 {}
+

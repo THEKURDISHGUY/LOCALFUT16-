@@ -1,0 +1,21 @@
+CM_Transfer_PreferredPositionUnavailable
+CM_User_Transfer_PreferredPositionUnavailable
+GetPreferredPositionOffset
+PREFERREDPOSITION1
+PREFERREDPOSITION2
+PREFERREDPOSITION3
+PREFERREDPOSITION4
+PreferredPosition
+PreferredPosition_abbr12
+PreferredPositions_abbr12
+SELECT overallrating, birthdate, nationality, preferredposition1 FROM players WHERE playerid = %d
+SELECT playerid, preferredposition1, birthdate FROM players ORDER BY playerid ASC
+VirtualPro.Player.PREFERREDPOSITION1
+VirtualPro.Player.PREFERREDPOSITION2
+VirtualPro.Player.PREFERREDPOSITION3
+VirtualPro.Player.PREFERREDPOSITION4
+birthdate%D,playerjointeamdate%D,hasseasonaljersey%d hashighqualityhead%d usercaneditname%d,playerid%d firstnameid%d lastnameid%d commonnameid%d height%d weight%d gender%d,preferredposition1%d preferredposition2%d preferredposition3%d,preferredposition4%d preferredfoot%d contractvaliduntil%d faceposercode%d,potential%B overallrating%B nationality%H shortstyle%B,bodytypecode%B hairtypecode%d headtypecode%d headclasscode%B,haircolorcode%B facialhairtypecode%B facialhaircolorcode%B sideburnscode%B,skintypecode%B skintonecode%B jerseystylecode%B eyecolorcode%d,eyebrowcode%B jerseysleevelengthcode%B gkglovetypecode%B shoecolorcode1%B shoecolorcode2%B,shoetypecode%B shoedesigncode%B socklengthcode%B internationalrep%B emotion%B,weakfootabilitytypecode%B animpenaltieskickstylecode%d animpenaltiesmotionstylecode%B animpenaltiesstartposcode%B,animfreekickstartposcode%B gkkickstyle%B gksavetype%B,defensiveworkrate%B attackingworkrate%B runningcode1%B runningcode2%B,finishingcode1%B finishingcode2%B,isretiring%d trait1%d, trait2%d, skillmoves%B,acceleration%B sprintspeed%B agility%B balance%B jumping%B stamina%B,strength%B reactions%B aggression%B interceptions%B positioning%B,vision%B ballcontrol%B crossing%B dribbling%B finishing%B freekickaccuracy%B,headingaccuracy%B longpassing%B shortpassing%B marking%B shotpower%B,longshots%B standingtackle%B slidingtackle%B volleys%B curve%B penalties%B,gkdiving%B gkhandling%B gkkicking%B gkreflexes%B gkpositioning%B,accessorycode1%B, accessorycolourcode1%B, accessorycode2%B, accessorycolourcode2%B, accessorycode3%B, accessorycolourcode3%B, accessorycode4%B, accessorycolourcode4%B, jerseyfit%B
+preferredposition1
+preferredposition2
+preferredposition3
+preferredposition4
