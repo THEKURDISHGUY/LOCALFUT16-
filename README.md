@@ -11,7 +11,9 @@ LOCAL FUT 16 is a solo-developed project. I have been working on this project al
 The goal is to bring back and improve the FUT 16 experience.
 
 Current Development Status
-
+-⚠️ For now: ONLY Single Player Season works. War in Kurdistan delays dev.
+🚀 FUTURE: Online, Draft & all modes!
+FUT REBORN: discord.gg/a2gju3hzx
 - Single Player Season: Currently working.
 - Main Menu: Very good and playable.
 - Other Features: Still under development.
